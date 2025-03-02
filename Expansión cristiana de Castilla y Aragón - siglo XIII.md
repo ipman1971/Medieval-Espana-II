@@ -1,4 +1,4 @@
-tema:: [[Expansión cristiana de Castilla y Aragón - Siglo XIII]]
+ tema:: [[Expansión cristiana de Castilla y Aragón - Siglo XIII]]
 tags:: - #tema1 - #expansion - #repoblación
 reyes-cristianos:: - #Fernando-III-Castilla - #Jaime-I-Aragon - #Alfonso-X-Castilla 
 reyes-musulmanes:: - #Abu-Ula #Ben-Nasr - #Ibn-Hud
@@ -96,6 +96,8 @@ En naranja campañas de Jaime I en peninsula y Baleares
 
 ## La acción repobladora y sus variantes
 
+Los efectos de las acciones repobladores durante el siglo XIII son similares a las de siglos anteriores, sus consecuencias tuvieron incidencias tanto en las zonas de origen como en las nuevas zonas creadas fruto de la conquista. La repoblación de la corona de Castilla se manifiesta en una unión total y completa entre Castilla y León, siendo obra de todos y sin distinción ninguna en los nuevos dominios. En la corona de Aragón, la repoblación iniciada un siglo antes, mantiene diferencias jurídicas, económicas y sociales entre aragoneses y catalanes, ya que sus intereses eran distintos
 ### La repoblación de Andalucía y Murcia
+
 ### La repoblación de Valencia y Mallorca
 
