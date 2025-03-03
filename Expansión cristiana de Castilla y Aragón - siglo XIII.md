@@ -11,8 +11,8 @@ En el siglo XIII se producen don hechos relevantes:
 
 ### Esquema
 
-![[image.png]]
- 
+![[anexos/Expansión cristiana de Castilla y Aragón - siglo XIII/image.png]]
+
 ## La conquista de Andalucía y Murcia
 
 Esta marcada por la descomposición y debilidad del imperio almohade y la unión de Castilla y León en 1230
@@ -99,5 +99,23 @@ En naranja campañas de Jaime I en peninsula y Baleares
 Los efectos de las acciones repobladores durante el siglo XIII son similares a las de siglos anteriores, sus consecuencias tuvieron incidencias tanto en las zonas de origen como en las nuevas zonas creadas fruto de la conquista. La repoblación de la corona de Castilla se manifiesta en una unión total y completa entre Castilla y León, siendo obra de todos y sin distinción ninguna en los nuevos dominios. En la corona de Aragón, la repoblación iniciada un siglo antes, mantiene diferencias jurídicas, económicas y sociales entre aragoneses y catalanes, ya que sus intereses eran distintos
 ### La repoblación de Andalucía y Murcia
 
+La repoblación de las tierras meridionales fue muy lenta en comparación con las campañas militares. La acción repobladora y la colonización agraria no se llevo acabo hasta después de 1264 debido a la sublevación musulmana que llevo a su expulsión.
+La ocupación de Al-Andalus respeto a la población de acuerdo como había sido su resistencia. En algunos casos llegaron a conservar hasta sus heredades, fue el caso de núcleos sometidos a Fernando III como Jerez o Arcos. En otros casos se eliminó o esclavizó a los habitantes de ciudades conquistadas al asalto que ofrecieron dura resistencia. En cualquier caso la mayoría de las veces fue mediante capitulaciones, donde los musulmanes evacuaban las ciudades entregando la ciudad de forma intacta, como ocurrío en Córdoba, Jaén o Sevilla. En la Andalucía bética las zonas de mayor peligro fueron entregadas a las ordenes militares.
+Con el propósito de paliar la descomposición de la estructura urbana, los monarcas van a potenciar la creación de poderosos concejos, que eran el eje de la acción repobladora, reproduciendo el modelo establecido en el reino de Toledo.
+#### Los repartimientos
+Los repartos de las nuevas tierras conquistadas se hicieron de forma ordenada y de acuerdo a ciertos criterios, de acuerdo a documentos  como los hallados en Sevilla, denominados **Libros de Repartimiento** donde quedan registrados las tierras y casas asignadas a cada colono. Estos repartimientos también estimularon la inmigración de campesinos libres o semilibres llegado del norte.
+
+Si antes en la voluntad de las reconquistas existía una voluntad de estableces a numerosos campesinos en propiedades pequeñas o medianas con regimen fiscal favorable, los nuevos concejos  andaluces reproducirán con exactitud la estructura de clases y divisiones internas de la sociedad feudal con los conquistadores septentrionales. Los mas beneficiados van a ser los miembros de la alta nobleza como *los Castro, los Lara o los Haro*, que van a recibir donadíos que comprenden varias aldeas o alquerías. En este grupo también entra la Iglesia. Este sistema favorece el desarrollo de grandes haciendas territoriales . La nobleza inferior también recibe donadíos que suelen ser fracciones de alquerías o extensiones de tierra cerealista y olivarera sensiblemente inferiores. Pero el peso fundamental de la repoblación va a recaer sobre los caballeros hidalgos o de linaje, los cuales se asientan dentro de las ciudades a cambio de recibir heredamientos que constan básicamente de una o varias casas y tierras de cereal. Los caballeros no hidalgos también reciben propiedades en las ciudades pero en menor proporción. En último lugar se encuentra los peones, que reciben la mitad que los caballeros urbanos. Para acudir a Andalucía, malvendieron o abandonaron sus posesiones, lo que facilito la concentración de la propiedad y la aparición de dehesas y latifundios salmantinos o extremeños.
+
+La repoblación en Andalucía no resulto nada fácil, las acciones bélicas hacían muy difícil la explotación agraria, las incursiones del reino de Granada fueron muy frecuentes y las capitulaciones dejaron de cumplirse explotando una revuelta mudéjar que permitió al ejercito real incorporar de facto a la corona las tierras de la zona meridional, dejando al campo andaluz muy despoblado
+
+Se producen las siguientes consecuencias:
+
+- El desplazamiento de campesinos al sur inicia en Castilla y luego en León una crisis agrícola, que llegará al sur debido a la descomposición del antiguo sistema de cultivo del campo andaluz.
+- Los recién llegados tuvieron el problema de no conocer o estar acostumbrados al sistema de labranza y cosecha utilizado por los musulmanes, su agricultura era floreciente pero desconocían las técnicas para conseguir rendimientos adecuados, por lo que los colonos no eran capaces de mantener los cultivos tradicionales, por ello las tierras se dedican a los pastos, cereales y olivo.
+
+En la cuestión demográfica la monarquía no es capaz de cubrir los vacíos de población fruto de la revuelta de 1264, esto favorecerá la concentración de tierras en pocas manos, así como la trashumancia, fomentando su desarrollo, influyendo esto también en la conversion de tierras de cultivo a pastos.
+
+En Murcia, Alfonso X completa la repoblación inicial realizada por Jaime I de Aragón,  que había realizado un reparto de carácter señorial, otorgando grandes extensiones de tierras de regadío a un grupo de caballeros a los que estarían sometidos los habitantes de la ciudad. Alfonso X intentando mitigar la influencia de la nobleza les otorgara a estos nobles grandes extensiones de tierra en la frontera con Granada, pues en estas zonas la población era muy escasa. Los nuevo repobladores eran castellanos, también muchos aragoneses y en menor medida algunos extranjeros venidos de Italia y Francia
 ### La repoblación de Valencia y Mallorca
 
