@@ -1,4 +1,3 @@
-
 Entre 1220 y 1280 ocurrieron tres fenómenos para el desarrollo de las monarquías peninsulares de especial relevancia:
 
 + Consolidación de las plataformas territoriales en el contexto expansivo del final de la *Reconquista*.

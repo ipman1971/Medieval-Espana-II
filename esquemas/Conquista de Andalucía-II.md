@@ -1,0 +1,21 @@
+# Andalucía
+- Ben Nasr
+	- Acuerdo con Fernando III para bloquear la ayuda de Ibn Hud en la toma de Córdoba
+- Ibn Hud
+	- Alzamiento contra Ben Nasr
+	- Paz con Fernando III por dinero y acuerdo de no intervención
+	- Asesinado en 1238
+- Fernando III
+	- Conquista de Trujillo en 1232
+	- Conquista de Úbeda en 1233
+	- Campaña de ordenes militares sobre Extremadura en 1234
+	- Conquista de Cordoba
+	- Conquista de Écija, Lucena y Marchena por medio de pactos
+	- Desarrollo de la flota del Cantábrico y sitio a Sevilla
+	- Conquista de Sevilla en 1248
+	- Vasallaje con independencia controlada para los reinos de Granada, Cadiz y Niebla
+# Murcia
+- Ofrecimiento del reino a Alfonso X en 1241
+- Firma del tratado de Alcaraz en 1243
+- Alzamiento mozarabe en 1264
+- Ayuda de Jaime I de Aragón y reconquista en 1266
