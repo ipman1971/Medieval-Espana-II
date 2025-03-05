@@ -5,6 +5,6 @@ Repositorio para almacenar todo el contenido de la asignatura [Historia Medieval
 ## Contenidos
 
 > [!info]
-> - Tema 1: [[Expansión cristiana de Castilla y Aragón - siglo XIII]]
+> - Tema 1: [[Tema]]
 > - Tema 2: [[Consolidación de las monarquías peninsulares]]
 
